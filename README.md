@@ -5,7 +5,7 @@ To help you, I create simple, quick and understandable software in Go for everyo
 
 # Prerequisites
 
-**1.** Installed `Go` language. If you don't have installed it, you can do that [here.](https://go.dev/dl/)
+**1.** Installed `Go` language. If you haven't installed it yet, you can do that [here.](https://go.dev/dl/)
 
 **2.** Installed `git`.
 
